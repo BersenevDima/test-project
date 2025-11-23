@@ -1,0 +1,7 @@
+import React from 'react';
+
+export const Catalog = ({ fill }) => (
+  <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M20.125 8.25385L10.5 0.00384521L0.875 8.25385V19.1666H20.125V8.25385Z" fill={fill} />
+  </svg>
+);
